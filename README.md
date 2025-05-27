@@ -1,8 +1,7 @@
 # Exp5class-MicronBERT
-# Exp5class-MicronBERT
 基于Micron-BERT的微表情5分类识别系统  
 
-项目简介  
+项目简介：  
 本项目通过微调Micron-BERT预训练模型，构建了一个针对微表情识别的 5分类系统（高兴/悲伤/惊讶/愤怒/中性）。   
 
 Micron-BERT 权重下载：  
